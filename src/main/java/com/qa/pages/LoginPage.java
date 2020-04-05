@@ -4,7 +4,7 @@ public class LoginPage {
 
 	public void loginPage()
 	{
-		System.out.println("loginpage");
+		System.out.println("loginpage1");
 	}
 	public void loginsetPage()
 	{
